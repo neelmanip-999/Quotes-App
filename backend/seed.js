@@ -4,7 +4,7 @@ const Quotes = require('./models/Quote');
 
 let dummyQuotes = [
     {
-        author: 'Samarth Vohra' , 
+        author: 'Samarth ' , 
         text: 'Syntax Over Sematics'
     },
     {
